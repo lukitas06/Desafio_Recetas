@@ -3,7 +3,9 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //-------------------------------------------------------------------------------
-
+using System.Collections;
+using System;
+using System.Linq;
 namespace Full_GRASP_And_SOLID.Library
 {
     public class Equipment
